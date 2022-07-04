@@ -23,10 +23,9 @@
             <div class="form-form-wrap">
                 <div class="form-container">
                     <div class="form-content">
-
                         <h1 class="">Admin Sign In</h1>
-                        <p class="">Log in to your account to continue.</p>
-                        
+                        <img src="assets/logo.png" class="navbar-logo" height="100px" width="100px" alt="logo">
+                          <p class="">Log in to your account to continue.</p>
                         <form class="text-left">
                             <div class="form">
 
